@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { TeamMember } from "Types/Members";
 import { formatDate } from "Utils/FormatDate";
 import { formatPhone } from "Utils/FormatPhone";
